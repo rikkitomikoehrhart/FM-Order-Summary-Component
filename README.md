@@ -25,11 +25,9 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
+Solution URL: [https://github.com/rikkitomikoehrhart/FM-Order-Summary-Component](https://github.com/rikkitomikoehrhart/FM-Order-Summary-Component)
+- Live Site URL: [https://rikkitomikoehrhart.github.io/FM-Order-Summary-Component](https://rikkitomikoehrhart.github.io/FM-Order-Summary-Component) -->
 
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 
 ## Built with
@@ -45,4 +43,3 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ## Acknowledgments
 
 Thank you Frontend Mentor for providing this challenge.
-
